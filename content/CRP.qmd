@@ -1,0 +1,55 @@
+---
+title: Cetacean Research Program
+---
+
+Short blurb about who we are.
+
+## Datasets
+
+-   Telemetry (ATN)
+
+-   Sightings (OBIS-SEAMAP)
+
+-   Acoustics?
+
+-   Others?
+
+## Tools
+
+-   Humpback whale acoustic detector
+
+-   Design-based line-transect abundance estimation package
+
+-   LL HARP project organization (limited access?)
+
+-   Banter models (at least the one from JLKMs paper?) 
+
+-   Pina's whistle tracking tools
+
+-   Acoustic glider toolbox
+
+-   Pina's SQL reading tools
+
+-   Others?
+
+## Resources
+
+-   HICEAS stuff?
+
+-   CRP UAS Handbook
+
+-   Stock and management boundary files
+
+-   Others?
+
+## Quick links
+
+-   SARs
+
+-   swfscDAS
+
+-   CruzPlot
+
+-   Bioacoustics stack exchange
+
+-   Others?

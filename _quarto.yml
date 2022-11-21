@@ -4,8 +4,8 @@ project:
 website: 
   page-navigation: true
   title: "NOAA quarto simple" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
+  site-url: "https://pifsc-protected-species-division.github.io/PSDOS" 
+  repo-url: "https://github.com/PIFSC-Protected-Species-Division/PSDOS"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
@@ -21,11 +21,11 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-opensci.github.io
-        text: "NMFS Open Science"
+        href: https://pifsc-protected-species-division.github.io/PSDOS
+        text: "Protected Species Division Open Science"
       - icon: github
-        href: https://github.com/nmfs-opensci
-        text: "NMFS OpenSci"
+        href: https://github.com/PIFSC-Protected-Species-Division/PSDOS
+        text: "Protected Species Division OpenSci"
 
     style: "docked"
     search: true
@@ -33,6 +33,8 @@ website:
     contents:
       - href: index.qmd
         text: Home
+      - href: content/CRP.qmd
+        text: Cetacean Research Program
       - href: content/add-content.qmd
         text: Add content
       - href: content/customizing.qmd
