@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/index.html</loc>
-    <lastmod>2022-11-21T20:21:56.588Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSDOS/index.html</loc>
+    <lastmod>2022-11-21T20:48:57.366Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/customizing.html</loc>
-    <lastmod>2022-11-21T20:21:59.312Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/customizing.html</loc>
+    <lastmod>2022-11-21T20:48:59.698Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/acknowledgements.html</loc>
-    <lastmod>2022-11-21T20:21:59.868Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/acknowledgements.html</loc>
+    <lastmod>2022-11-21T20:49:00.082Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/code.html</loc>
-    <lastmod>2022-11-21T20:22:00.971Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/code.html</loc>
+    <lastmod>2022-11-21T20:49:01.358Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/rmarkdown.html</loc>
-    <lastmod>2022-11-21T20:22:02.351Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/CRP.html</loc>
+    <lastmod>2022-11-21T20:49:01.742Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/publishing.html</loc>
-    <lastmod>2022-11-21T20:22:02.703Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/rmarkdown.html</loc>
+    <lastmod>2022-11-21T20:49:03.274Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/add-content.html</loc>
-    <lastmod>2022-11-21T20:22:03.055Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/publishing.html</loc>
+    <lastmod>2022-11-21T20:49:03.646Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/rendering.html</loc>
-    <lastmod>2022-11-21T20:22:03.395Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/add-content.html</loc>
+    <lastmod>2022-11-21T20:49:04.014Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/rendering.html</loc>
+    <lastmod>2022-11-21T20:49:04.378Z</lastmod>
   </url>
 </urlset>
