@@ -1,0 +1,27 @@
+---
+title: Hawaiian Monk Seal Program
+---
+
+The Hawaiian Monk Seal Research Program (HMSRP) conducts science-based conservation. The program carries out research and monitoring to support identification of threats, and designs, implements and evaluates interventions to mitigate those threats.
+
+## Datasets
+
+-   Telemetry (ATN)
+-   *More TBD...*
+
+## Tools
+
+-   Toxoplasmosis exposure risk mapping app (NOAA Rstudio server)
+-   Sighting data sorting app (in development)
+-   *More TBD...*
+
+## Resources
+
+-   HMSRP field manual
+-   *More TBD...*
+
+## Quick links
+
+-   SARs
+-   Hawaiian monk seal NOAA page
+-   *More TBD...*

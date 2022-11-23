@@ -2,54 +2,37 @@
 title: Cetacean Research Program
 ---
 
-Short blurb about who we are.
+The Cetacean Research Program (CRP) conducts research needed for the assessment of whale and dolphin populations in the central and western Pacific Ocean, which requires an understanding of distribution, stock structure, habitat use, and natural and anthropogenic threats, along with estimates of abundance, demography, and mortality.
 
 ## Datasets
 
 -   Telemetry (ATN)
-
 -   Sightings (OBIS-SEAMAP)
-
--   Acoustics?
-
--   Others?
+-   *More TBD...*
 
 ## Tools
 
 -   Humpback whale acoustic detector
-
 -   Design-based line-transect abundance estimation package
-
--   LL HARP project organization (limited access?)
-
--   Banter models (at least the one from JLKMs paper?) 
-
--   Pina's whistle tracking tools
-
+-   LL HARP project organization
+-   Banter models
+-   Whistle tracking tools
 -   Acoustic glider toolbox
-
--   Pina's SQL reading tools
-
--   Others?
+-   SQL reading tools
+-   *More TBD...*
 
 ## Resources
 
--   HICEAS stuff?
-
--   CRP UAS Handbook
-
+-   HICEAS materials
+-   CRP UAS handbook
 -   Stock and management boundary files
-
--   Others?
+-   *More TBD...*
 
 ## Quick links
 
 -   SARs
-
 -   swfscDAS
-
 -   CruzPlot
-
 -   Bioacoustics stack exchange
-
--   Others?
+-   [Propagation Modeling](https://github.com/nposdalj/PropagationModeling)
+-   *More TBD...*

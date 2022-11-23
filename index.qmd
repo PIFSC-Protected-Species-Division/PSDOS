@@ -1,47 +1,26 @@
 ---
-title: "NOAA quarto simple with R"
-subtitle: "A simple Quarto webpage with a book layout"
+title: "Protected Species Division Open Science"
+subtitle: "A hub for PSDOS datasets, tools, and resources"
 page-layout: full
 ---
 
-# Protected Species Division Main Page 
+The [Protected Species Division (PSD)](https://www.fisheries.noaa.gov/pacific-islands/science-data/providing-science-protect-marine-species) of the [Pacific Islands Fisheries Science Center](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center) provides the scientific foundation for the conservation of cetaceans, Hawaiian monk seals, and sea turtles in the Pacific Islands, guided by mandates of the Marine Mammal Protection Act, Endangered Species Act, and international agreements.
 
-(Come up with a fancy title? Use Moceatle image or something less weird?)
+Members of PSD have joined the growing [NMFS Open Science](https://nmfs-opensci.github.io/) community through participation in [NMFS Openscapes](https://nmfs-openscapes.github.io/) training. As in other scientific fields, [open science](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020EA001562) practices can advance protected species science by making it more accessible, transparent, and reproducible. This site will serve as a hub for PSD Open Science (PSDOS), where we will aggregate links to our datasets, analytical tools, and other resources for ourselves, our collaborators and stakeholders, and other researchers and analysts. 
 
-PSDOS (said like MS-DOS) = PSD Open Science (not that we need another acronym... but I think just calling us PSD Open Science Team/Crew/Gang or something like that is descriptive but not too fancy or weird :) 
+The PSDOS hub is a work in progress that we intend to grow and develop in the months and years to come. If you have suggestions for resources or other information to include, please let us know by [creating an issue](https://github.com/PIFSC-Protected-Species-Division/PSDOS/issues) in the PSDOS repository.
 
-Short blurb about who we are.
+## PSD Resources
 
-Intro blurb about what the page is that reflects:
+-   [Git Started](https://github.com/sfregosi/CRPTools) - *new to GitHub, start here for help*
+-   [PSD staff publications](https://apps-pifsc.fisheries.noaa.gov/library/staff_publications.php?division=psd&doc_type=all) - *compiled by NOAA libraries*
+-   *More TBD...*
 
--   Members of PSD have joined the growing [NMFS Open Science Community](https://nmfs-opensci.github.io/) through participation in [NMFS Openscapes training](https://nmfs-openscapes.github.io/)
+## NMFS Resources
 
--   As in other fields, open science practices can advance protected species science by making it more accessible
-
--   This site aggregates our efforts to make our data, resources, and tools more available
-
--   Please join us - here's how!
-
--   Other things?
-
-Possible sections (edits, suggestions?):
-
-## Relevant Resources
-
--   [PSD staff publications](https://apps-pifsc.fisheries.noaa.gov/library/staff_publications.php?division=psd&doc_type=all)
-
--   Getting started?
-
--   Other specific local resources?
-
-## NMFS Open Science
-
--   [NMFS Openscapes](https://nmfs-openscapes.github.io/)
-
--   [NOAA Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/)
-
--   [NOAA Fisheries Integrated Modeling System](https://noaa-fims.github.io/)
-
--   [NMFS R User Group](https://nmfs-opensci.github.io/NMFS-R-UG/)
-
--   Google calendar (NOAA users - coming soon)
+-   [NMFS Open Science](https://nmfs-opensci.github.io/) - *includes an incredible resource book, a NMFS GitHub SOP, and GitHub repo templates*
+-   [NMFS Openscapes](https://nmfs-openscapes.github.io/) - *describes the multi-year collaboration between NMFS and Openscapes*
+-   [NOAA Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/) - *a portal of operational tools for a variety of applications, including protected species assessment*
+-   [NOAA Fisheries Integrated Modeling System](https://noaa-fims.github.io/) - *a software system to support next-generation fisheries stock assessment*
+-   [NMFS R User Group](https://nmfs-opensci.github.io/NMFS-R-UG/) - *connect with over 200 NMFS R users*
+-   More TBD...

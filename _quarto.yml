@@ -3,7 +3,7 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
+  title: "Protected Species Division Open Science Hub" 
   site-url: "https://pifsc-protected-species-division.github.io/PSDOS" 
   repo-url: "https://github.com/PIFSC-Protected-Species-Division/PSDOS"
   repo-actions: [edit, source, issue]
@@ -15,17 +15,17 @@ website:
   
   sidebar:
     background: "#D9E3E4"
-    logo: "https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png"
+    logo: PIFSC_Logo.png
     favicon: images/favicon.ico
     pinned: true
     align: center
     tools: 
       - icon: globe
         href: https://pifsc-protected-species-division.github.io/PSDOS
-        text: "Protected Species Division Open Science"
+        text: "Protected Species Division Open Science Hub"
       - icon: github
         href: https://github.com/PIFSC-Protected-Species-Division/PSDOS
-        text: "Protected Species Division OpenSci"
+        text: "Protected Species Division Open Science"
 
     style: "docked"
     search: true
@@ -35,18 +35,12 @@ website:
         text: Home
       - href: content/CRP.qmd
         text: Cetacean Research Program
-      - href: content/add-content.qmd
-        text: Add content
-      - href: content/customizing.qmd
-        text: Customizing
-      - href: content/rendering.qmd
-        text: Rendering
-      - href: content/rmarkdown.Rmd
-        text: R Markdown files
-      - href: content/code.qmd
-        text: Code in your files
-      - href: content/acknowledgements.qmd
-        text: Acknowledgements
+      - href: content/HMSRP.qmd
+        text: Hawaiian Monk Seal Research Program
+      - href: content/MTBAP.qmd
+        text: Marine Turtle Biology and Assessment Program
+      - href: content/PSSP.qmd
+        text: Protected Species Services and Support Program
 
 format:
   html:
