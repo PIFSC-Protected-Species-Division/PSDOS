@@ -2,176 +2,162 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "NOAA quarto simple with R",
+    "title": "Protected Species Division Open Science",
     "section": "",
-    "text": "(Come up with a fancy title? Use Moceatle image or something less weird?)\nPSDOS (said like MS-DOS) = PSD Open Science (not that we need another acronym… but I think just calling us PSD Open Science Team/Crew/Gang or something like that is descriptive but not too fancy or weird :) \nShort blurb about who we are.\nIntro blurb about what the page is that reflects:\n\nMembers of PSD have joined the growing NMFS Open Science Community through participation in NMFS Openscapes training\nAs in other fields, open science practices can advance protected species science by making it more accessible\nThis site aggregates our efforts to make our data, resources, and tools more available\nPlease join us - here’s how!\nOther things?\n\nPossible sections (edits, suggestions?):\n\n\n\nPSD staff publications\nGetting started?\nOther specific local resources?\n\n\n\n\n\nNMFS Openscapes\nNOAA Fisheries Integrated Toolbox\nNOAA Fisheries Integrated Modeling System\nNMFS R User Group\nGoogle calendar (NOAA users - coming soon)"
+    "text": "The Protected Species Division (PSD) of the Pacific Islands Fisheries Science Center provides the scientific foundation for the conservation of cetaceans, Hawaiian monk seals, and sea turtles in the Pacific Islands, guided by mandates of the Marine Mammal Protection Act, Endangered Species Act, and international agreements.\nMembers of PSD have joined the growing NMFS Open Science community through participation in NMFS Openscapes training. As in other scientific fields, open science practices can advance protected species science by making it more accessible, transparent, and reproducible. This site will serve as a hub for PSD Open Science (PSDOS), where we will aggregate links to our datasets, analytical tools, and other resources for ourselves, our collaborators and stakeholders, and other researchers and analysts.\nThe PSDOS hub is a work in progress that we intend to grow and develop in the months and years to come. If you have suggestions for resources or other information to include, please let us know by creating an issue in the PSDOS repository."
   },
   {
-    "objectID": "content/customizing.html",
-    "href": "content/customizing.html",
-    "title": "Customization",
+    "objectID": "index.html#psd-resources",
+    "href": "index.html#psd-resources",
+    "title": "Protected Species Division Open Science",
+    "section": "PSD Resources",
+    "text": "PSD Resources\n\nGit Started - new to GitHub, start here for help\nPSD staff publications - compiled by NOAA libraries\nMore TBD…"
+  },
+  {
+    "objectID": "index.html#nmfs-resources",
+    "href": "index.html#nmfs-resources",
+    "title": "Protected Species Division Open Science",
+    "section": "NMFS Resources",
+    "text": "NMFS Resources\n\nNMFS Open Science - includes an incredible resource book, a NMFS GitHub SOP, and GitHub repo templates\nNMFS Openscapes - describes the multi-year collaboration between NMFS and Openscapes\nNOAA Fisheries Integrated Toolbox - a portal of operational tools for a variety of applications, including protected species assessment\nNOAA Fisheries Integrated Modeling System - a software system to support next-generation fisheries stock assessment\nNMFS R User Group - connect with over 200 NMFS R users\nMore TBD…"
+  },
+  {
+    "objectID": "content/PSSP.html",
+    "href": "content/PSSP.html",
+    "title": "Protected Species Services and Support Program",
     "section": "",
-    "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation."
+    "text": "The Protected Species Service and Support Program (PSSP)…"
   },
   {
-    "objectID": "content/customizing.html#examples",
-    "href": "content/customizing.html#examples",
-    "title": "Customization",
-    "section": "Examples",
-    "text": "Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFaye lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory."
+    "objectID": "content/PSSP.html#datasets",
+    "href": "content/PSSP.html#datasets",
+    "title": "Protected Species Services and Support Program",
+    "section": "Datasets",
+    "text": "Datasets\n\nMore TBD…"
   },
   {
-    "objectID": "content/acknowledgements.html",
-    "href": "content/acknowledgements.html",
-    "title": "Acknowledgments",
+    "objectID": "content/PSSP.html#tools",
+    "href": "content/PSSP.html#tools",
+    "title": "Protected Species Services and Support Program",
+    "section": "Tools",
+    "text": "Tools\n\nMore TBD…"
+  },
+  {
+    "objectID": "content/PSSP.html#resources",
+    "href": "content/PSSP.html#resources",
+    "title": "Protected Species Services and Support Program",
+    "section": "Resources",
+    "text": "Resources\n\nMore TBD…"
+  },
+  {
+    "objectID": "content/PSSP.html#quick-links",
+    "href": "content/PSSP.html#quick-links",
+    "title": "Protected Species Services and Support Program",
+    "section": "Quick links",
+    "text": "Quick links\n\nMore TBD…"
+  },
+  {
+    "objectID": "content/MTBAP.html",
+    "href": "content/MTBAP.html",
+    "title": "Marine Turtle Biology and Assessment Program",
     "section": "",
-    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland."
+    "text": "The Marine Turtle Biology and Assessment Program (MTBAP) conducts research throughout the central and western Pacific Ocean to support the conservation and management of threatened and endangered marine turtle populations. The program works to understand the distribution, abundance, trends, movements, habitat use, and population dynamics of numerous populations of turtles from five species, as well as the impacts of anthropogenic activities such as fisheries bycatch on each population."
   },
   {
-    "objectID": "content/code.html",
-    "href": "content/code.html",
-    "title": "Rendering with Code",
-    "section": "",
-    "text": "You can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files."
+    "objectID": "content/MTBAP.html#datasets",
+    "href": "content/MTBAP.html#datasets",
+    "title": "Marine Turtle Biology and Assessment Program",
+    "section": "Datasets",
+    "text": "Datasets\n\nMore TBD…"
   },
   {
-    "objectID": "content/code.html#modify-the-github-action",
-    "href": "content/code.html#modify-the-github-action",
-    "title": "Rendering with Code",
-    "section": "Modify the GitHub Action",
-    "text": "Modify the GitHub Action\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nrender-and-publish.old_yml\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it."
+    "objectID": "content/MTBAP.html#tools",
+    "href": "content/MTBAP.html#tools",
+    "title": "Marine Turtle Biology and Assessment Program",
+    "section": "Tools",
+    "text": "Tools\n\nMore TBD…"
   },
   {
-    "objectID": "content/code.html#render-locally-and-publish-to-gh-pages-branch",
-    "href": "content/code.html#render-locally-and-publish-to-gh-pages-branch",
-    "title": "Rendering with Code",
-    "section": "Render locally and publish to gh-pages branch",
-    "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages"
+    "objectID": "content/MTBAP.html#resources",
+    "href": "content/MTBAP.html#resources",
+    "title": "Marine Turtle Biology and Assessment Program",
+    "section": "Resources",
+    "text": "Resources\n\nMore TBD…"
+  },
+  {
+    "objectID": "content/MTBAP.html#quick-links",
+    "href": "content/MTBAP.html#quick-links",
+    "title": "Marine Turtle Biology and Assessment Program",
+    "section": "Quick links",
+    "text": "Quick links\n\nMore TBD…"
   },
   {
     "objectID": "content/CRP.html",
     "href": "content/CRP.html",
     "title": "Cetacean Research Program",
     "section": "",
-    "text": "Short blurb about who we are."
+    "text": "The Cetacean Research Program (CRP) conducts research needed for the assessment of whale and dolphin populations in the central and western Pacific Ocean, which requires an understanding of distribution, stock structure, habitat use, and natural and anthropogenic threats, along with estimates of abundance, demography, and mortality."
   },
   {
     "objectID": "content/CRP.html#datasets",
     "href": "content/CRP.html#datasets",
     "title": "Cetacean Research Program",
     "section": "Datasets",
-    "text": "Datasets\n\nTelemetry (ATN)\nSightings (OBIS-SEAMAP)\nAcoustics?\nOthers?"
+    "text": "Datasets\n\nTelemetry (ATN)\nSightings (OBIS-SEAMAP)\nMore TBD…"
   },
   {
     "objectID": "content/CRP.html#tools",
     "href": "content/CRP.html#tools",
     "title": "Cetacean Research Program",
     "section": "Tools",
-    "text": "Tools\n\nHumpback whale acoustic detector\nDesign-based line-transect abundance estimation package\nLL HARP project organization (limited access?)\nBanter models (at least the one from JLKMs paper?) \nPina’s whistle tracking tools\nAcoustic glider toolbox\nPina’s SQL reading tools\nOthers?"
+    "text": "Tools\n\nHumpback whale acoustic detector\nDesign-based line-transect abundance estimation package\nLL HARP project organization\nBanter models\nWhistle tracking tools\nAcoustic glider toolbox\nSQL reading tools\nMore TBD…"
   },
   {
     "objectID": "content/CRP.html#resources",
     "href": "content/CRP.html#resources",
     "title": "Cetacean Research Program",
     "section": "Resources",
-    "text": "Resources\n\nHICEAS stuff?\nCRP UAS Handbook\nStock and management boundary files\nOthers?"
+    "text": "Resources\n\nHICEAS materials\nCRP UAS handbook\nStock and management boundary files\nMore TBD…"
   },
   {
     "objectID": "content/CRP.html#quick-links",
     "href": "content/CRP.html#quick-links",
     "title": "Cetacean Research Program",
     "section": "Quick links",
-    "text": "Quick links\n\nSARs\nswfscDAS\nCruzPlot\nBioacoustics stack exchange\nOthers?"
+    "text": "Quick links\n\nSARs\nswfscDAS\nCruzPlot\nBioacoustics stack exchange\nPropagation Modeling\nMore TBD…"
   },
   {
-    "objectID": "content/rmarkdown.html",
-    "href": "content/rmarkdown.html",
-    "title": "R Markdown",
+    "objectID": "content/HMSRP.html",
+    "href": "content/HMSRP.html",
+    "title": "Hawaiian Monk Seal Program",
     "section": "",
-    "text": "You can include R Markdown files in your project."
+    "text": "The Hawaiian Monk Seal Research Program (HMSRP) conducts science-based conservation. The program carries out research and monitoring to support identification of threats, and designs, implements and evaluates interventions to mitigate those threats."
   },
   {
-    "objectID": "content/rmarkdown.html#r-markdown",
-    "href": "content/rmarkdown.html#r-markdown",
-    "title": "R Markdown",
-    "section": "R Markdown",
-    "text": "R Markdown\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
+    "objectID": "content/HMSRP.html#datasets",
+    "href": "content/HMSRP.html#datasets",
+    "title": "Hawaiian Monk Seal Program",
+    "section": "Datasets",
+    "text": "Datasets\n\nTelemetry (ATN)\nMore TBD…"
   },
   {
-    "objectID": "content/rmarkdown.html#including-plots",
-    "href": "content/rmarkdown.html#including-plots",
-    "title": "R Markdown",
-    "section": "Including Plots",
-    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
+    "objectID": "content/HMSRP.html#tools",
+    "href": "content/HMSRP.html#tools",
+    "title": "Hawaiian Monk Seal Program",
+    "section": "Tools",
+    "text": "Tools\n\nToxoplasmosis exposure risk mapping app (NOAA Rstudio server)\nSighting data sorting app (in development)\nMore TBD…"
   },
   {
-    "objectID": "content/publishing.html",
-    "href": "content/publishing.html",
-    "title": "Publishing",
-    "section": "",
-    "text": "To get your Quarto webpage to show up with the url\nyou have a few steps."
+    "objectID": "content/HMSRP.html#resources",
+    "href": "content/HMSRP.html#resources",
+    "title": "Hawaiian Monk Seal Program",
+    "section": "Resources",
+    "text": "Resources\n\nHMSRP field manual\nMore TBD…"
   },
   {
-    "objectID": "content/publishing.html#turn-on-github-pages-for-your-repo",
-    "href": "content/publishing.html#turn-on-github-pages-for-your-repo",
-    "title": "Publishing",
-    "section": "Turn on GitHub Pages for your repo",
-    "text": "Turn on GitHub Pages for your repo\n\nTurn on GitHub Pages under Settings > Pages . You will set pages to be made from the gh-pages branch and the root directory.\nTurn on GitHub Actions under Settings > Actions > General\n\nThe GitHub Action will automatically recreate your website when you push to GitHub after you do the initial gh-pages set-up"
-  },
-  {
-    "objectID": "content/publishing.html#do-your-first-publish-to-gh-pages",
-    "href": "content/publishing.html#do-your-first-publish-to-gh-pages",
-    "title": "Publishing",
-    "section": "Do your first publish to gh-pages",
-    "text": "Do your first publish to gh-pages\nThe first time you publish to gh-pages, you need to do so locally.\n\nOn your local computer, open a terminal window and cd to your repo directory. Here is what that cd command looks like for me. You command will look different because your local repo will be somewhere else on your computer.\n\ncd ~/Documents/GitHub/NOAA-quarto-simple\n\nPublish to the gh-pages. In the terminal type\n\nquarto publish gh-pages\nThis is going to render your webpage and then push the _site contents to the gh-pages branch."
-  },
-  {
-    "objectID": "content/publishing.html#dont-like-using-gh-pages",
-    "href": "content/publishing.html#dont-like-using-gh-pages",
-    "title": "Publishing",
-    "section": "Don’t like using gh-pages?",
-    "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings > Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
-  },
-  {
-    "objectID": "content/add-content.html",
-    "href": "content/add-content.html",
-    "title": "Customize",
-    "section": "",
-    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation)."
-  },
-  {
-    "objectID": "content/add-content.html#add-your-pages-the-project",
-    "href": "content/add-content.html#add-your-pages-the-project",
-    "title": "Customize",
-    "section": "Add your pages the project",
-    "text": "Add your pages the project\n\nAdd the files to _quarto.yml"
-  },
-  {
-    "objectID": "content/rendering.html",
-    "href": "content/rendering.html",
-    "title": "Rendering",
-    "section": "",
-    "text": "The repo includes a GitHub Action that will render (build) the website automatically when you make changes to the files. It will be pushed to the gh-pages branch.\nBut when you are developing your content, you will want to render it locally."
-  },
-  {
-    "objectID": "content/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
-    "href": "content/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
-    "title": "Rendering",
-    "section": "Step 1. Make sure you have a recent RStudio",
-    "text": "Step 1. Make sure you have a recent RStudio\nHave you updated RStudio since about August 2022? No? Then update to a newer version of RStudio. In general, you want to keep RStudio updated and it is required to have a recent version to use Quarto."
-  },
-  {
-    "objectID": "content/rendering.html#step-2.-clone-and-create-rstudio-project",
-    "href": "content/rendering.html#step-2.-clone-and-create-rstudio-project",
-    "title": "Rendering",
-    "section": "Step 2. Clone and create RStudio project",
-    "text": "Step 2. Clone and create RStudio project\nFirst, clone the repo onto your local computer. How? You can click File > New Project and then select “Version Control”. Paste in the url of the repository. That will clone the repo on to your local computer. When you make changes, you will need to push those up."
-  },
-  {
-    "objectID": "content/rendering.html#step-3.-render-within-rstudio",
-    "href": "content/rendering.html#step-3.-render-within-rstudio",
-    "title": "Rendering",
-    "section": "Step 3. Render within RStudio",
-    "text": "Step 3. Render within RStudio\nRStudio will recognize that this is a Quarto project by the presence of the _quarto.yml file and will see the “Build” tab. Click the “Render website” button to render to the _site folder.\nPreviewing: You can either click index.html in the _site folder and specify “preview in browser” or set up RStudio to preview to the viewer panel. To do the latter, go to Tools > Global Options > R Markdown. Then select “Show output preview in: Viewer panel”."
+    "objectID": "content/HMSRP.html#quick-links",
+    "href": "content/HMSRP.html#quick-links",
+    "title": "Hawaiian Monk Seal Program",
+    "section": "Quick links",
+    "text": "Quick links\n\nSARs\nHawaiian monk seal NOAA page\nMore TBD…"
   }
 ]

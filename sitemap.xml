@@ -2,38 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pifsc-protected-species-division.github.io/PSDOS/index.html</loc>
-    <lastmod>2022-11-21T21:02:40.923Z</lastmod>
+    <lastmod>2022-11-23T00:16:29.617Z</lastmod>
   </url>
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/customizing.html</loc>
-    <lastmod>2022-11-21T21:02:43.347Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/PSSP.html</loc>
+    <lastmod>2022-11-23T00:16:31.309Z</lastmod>
   </url>
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/acknowledgements.html</loc>
-    <lastmod>2022-11-21T21:02:43.771Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/code.html</loc>
-    <lastmod>2022-11-21T21:02:45.183Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/MTBAP.html</loc>
+    <lastmod>2022-11-23T00:16:31.897Z</lastmod>
   </url>
   <url>
     <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/CRP.html</loc>
-    <lastmod>2022-11-21T21:02:45.611Z</lastmod>
+    <lastmod>2022-11-23T00:16:32.621Z</lastmod>
   </url>
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/rmarkdown.html</loc>
-    <lastmod>2022-11-21T21:02:47.391Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/publishing.html</loc>
-    <lastmod>2022-11-21T21:02:47.815Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/add-content.html</loc>
-    <lastmod>2022-11-21T21:02:48.219Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/rendering.html</loc>
-    <lastmod>2022-11-21T21:02:48.647Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/HMSRP.html</loc>
+    <lastmod>2022-11-23T00:16:33.309Z</lastmod>
   </url>
 </urlset>
