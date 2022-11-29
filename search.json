@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Protected Species Division Open Science",
-    "section": "",
-    "text": "The Protected Species Division (PSD) of the Pacific Islands Fisheries Science Center provides the scientific foundation for the conservation of cetaceans, Hawaiian monk seals, and sea turtles in the Pacific Islands, guided by mandates of the Marine Mammal Protection Act, Endangered Species Act, and international agreements.\nMembers of PSD have joined the growing NMFS Open Science community through participation in NMFS Openscapes training. As in other scientific fields, open science practices can advance protected species science by making it more accessible, transparent, and reproducible. This site will serve as a hub for PSD Open Science (PSDOS), where we will aggregate links to our datasets, analytical tools, and other resources for ourselves, our collaborators and stakeholders, and other researchers and analysts.\nThe PSDOS hub is a work in progress that we intend to grow and develop in the months and years to come. If you have suggestions for resources or other information to include, please let us know by creating an issue in the PSDOS repository."
-  },
-  {
-    "objectID": "index.html#psd-resources",
-    "href": "index.html#psd-resources",
-    "title": "Protected Species Division Open Science",
-    "section": "PSD Resources",
-    "text": "PSD Resources\n\nGit Started - new to GitHub, start here for help\nPSD staff publications - compiled by NOAA libraries\nMore TBD…"
-  },
-  {
-    "objectID": "index.html#nmfs-resources",
-    "href": "index.html#nmfs-resources",
-    "title": "Protected Species Division Open Science",
-    "section": "NMFS Resources",
-    "text": "NMFS Resources\n\nNMFS Open Science - includes an incredible resource book, a NMFS GitHub SOP, and GitHub repo templates\nNMFS Openscapes - describes the multi-year collaboration between NMFS and Openscapes\nNOAA Fisheries Integrated Toolbox - a portal of operational tools for a variety of applications, including protected species assessment\nNOAA Fisheries Integrated Modeling System - a software system to support next-generation fisheries stock assessment\nNMFS R User Group - connect with over 200 NMFS R users\nMore TBD…"
-  },
-  {
     "objectID": "content/PSSP.html",
     "href": "content/PSSP.html",
     "title": "Protected Species Services and Support Program",
@@ -54,6 +33,41 @@
     "title": "Protected Species Services and Support Program",
     "section": "Quick links",
     "text": "Quick links\n\nMore TBD…"
+  },
+  {
+    "objectID": "content/HMSRP.html",
+    "href": "content/HMSRP.html",
+    "title": "Hawaiian Monk Seal Program",
+    "section": "",
+    "text": "The Hawaiian Monk Seal Research Program (HMSRP) conducts science-based conservation. The program carries out research and monitoring to support identification of threats, and designs, implements and evaluates interventions to mitigate those threats."
+  },
+  {
+    "objectID": "content/HMSRP.html#datasets",
+    "href": "content/HMSRP.html#datasets",
+    "title": "Hawaiian Monk Seal Program",
+    "section": "Datasets",
+    "text": "Datasets\n\nAnimal Telemetry Network\nMore TBD…"
+  },
+  {
+    "objectID": "content/HMSRP.html#tools",
+    "href": "content/HMSRP.html#tools",
+    "title": "Hawaiian Monk Seal Program",
+    "section": "Tools",
+    "text": "Tools\n\nToxoplasmosis exposure risk mapping app (NOAA Rstudio server)\nSighting data sorting app (in development)\nMore TBD…"
+  },
+  {
+    "objectID": "content/HMSRP.html#resources",
+    "href": "content/HMSRP.html#resources",
+    "title": "Hawaiian Monk Seal Program",
+    "section": "Resources",
+    "text": "Resources\n\nHMSRP field manual\nMore TBD…"
+  },
+  {
+    "objectID": "content/HMSRP.html#quick-links",
+    "href": "content/HMSRP.html#quick-links",
+    "title": "Hawaiian Monk Seal Program",
+    "section": "Quick links",
+    "text": "Quick links\n\nSARs\nHawaiian monk seal NOAA page\nMore TBD…"
   },
   {
     "objectID": "content/MTBAP.html",
@@ -102,62 +116,48 @@
     "href": "content/CRP.html#datasets",
     "title": "Cetacean Research Program",
     "section": "Datasets",
-    "text": "Datasets\n\nTelemetry (ATN)\nSightings (OBIS-SEAMAP)\nMore TBD…"
+    "text": "Datasets\n\nAnimal Telemetry Network - Movement Patterns and Habitat Use of Cetaceans within the Mariana Archipelago, 2013-2018\nOBIS-SEAMAP - PIFSC Mariana Archipelago cetacean surveys 2010-2019\nOBIS-SEAMAP - Marine Mammal Survey, HICEAS 2017, Cruise 1705/1706\nOBIS-SEAMAP - Visual and genetic surveys for odontocete cetaceans in American Samoa 2003-06\nPacific Islands Passive Acoustic Network - Passive acoustic recordings of cetaceans taken from areas within the Pacific Islands Region since 2005\nMore TBD…"
   },
   {
     "objectID": "content/CRP.html#tools",
     "href": "content/CRP.html#tools",
     "title": "Cetacean Research Program",
     "section": "Tools",
-    "text": "Tools\n\nHumpback whale acoustic detector\nDesign-based line-transect abundance estimation package\nLL HARP project organization\nBanter models\nWhistle tracking tools\nAcoustic glider toolbox\nSQL reading tools\nMore TBD…"
+    "text": "Tools\n\nHumpback whale acoustic detector - Acoustic detection of humpback whales in the Pacific Islands using a convolutional neural network\nLTabundR - R package for design-based line-transect abundance estimation of cetaceans (in development)\nFKW BANTER - Automatic classification of false killer whale acoustic detections with no visual confirmation\nMulti-target tracking - Automated time differences of arrival tracking of acoustic data\nAcoustic glider toolbox\nSQL reading tools\nMore TBD…"
   },
   {
     "objectID": "content/CRP.html#resources",
     "href": "content/CRP.html#resources",
     "title": "Cetacean Research Program",
     "section": "Resources",
-    "text": "Resources\n\nHICEAS materials\nCRP UAS handbook\nStock and management boundary files\nMore TBD…"
+    "text": "Resources\n\nLine-transect survey materials\nCRP UAS handbook\nStock and management boundary files\nMore TBD…"
   },
   {
     "objectID": "content/CRP.html#quick-links",
     "href": "content/CRP.html#quick-links",
     "title": "Cetacean Research Program",
     "section": "Quick links",
-    "text": "Quick links\n\nSARs\nswfscDAS\nCruzPlot\nBioacoustics stack exchange\nPropagation Modeling\nMore TBD…"
+    "text": "Quick links\n\nSARs - Marine mammal stock assessment reports by species/stock\nswfscDAS - R package for processing and analyzing shipboard DAS data from WinCruz\nCruzPlot - R package for creating maps and summarizing and plotting DAS data from WinCruz\nPAMpal - R package for processing passive acoustic data collected using Pamguard\nPamguard - Open source software for passing acoustic monitoring\nBioacoustics Stack Exchange - Question and answer site for people interested in the studies of non-human animal sounds\nPropagation Modeling - Repository with tools for modeling sound propagation for the purpose of marine animal density estimation\nMore TBD…"
   },
   {
-    "objectID": "content/HMSRP.html",
-    "href": "content/HMSRP.html",
-    "title": "Hawaiian Monk Seal Program",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Protected Species Division Open Science",
     "section": "",
-    "text": "The Hawaiian Monk Seal Research Program (HMSRP) conducts science-based conservation. The program carries out research and monitoring to support identification of threats, and designs, implements and evaluates interventions to mitigate those threats."
+    "text": "The Protected Species Division (PSD) of the Pacific Islands Fisheries Science Center provides the scientific foundation for the conservation of cetaceans, Hawaiian monk seals, and sea turtles in the Pacific Islands, guided by mandates of the Marine Mammal Protection Act, Endangered Species Act, and international agreements.\nMembers of PSD have joined the growing NMFS Open Science community through participation in NMFS Openscapes training. As in other scientific fields, open science practices can advance protected species science by making it more accessible, transparent, and reproducible. This site will serve as a hub for PSD Open Science (PSDOS), where we will aggregate links to our datasets, analytical tools, and other resources for ourselves, our collaborators and stakeholders, and other researchers and analysts.\nThe PSDOS hub is a work in progress that we intend to grow and develop in the months and years to come. If you have suggestions for resources or other information to include, please let us know by creating an issue in the PSDOS repository."
   },
   {
-    "objectID": "content/HMSRP.html#datasets",
-    "href": "content/HMSRP.html#datasets",
-    "title": "Hawaiian Monk Seal Program",
-    "section": "Datasets",
-    "text": "Datasets\n\nTelemetry (ATN)\nMore TBD…"
+    "objectID": "index.html#psd-resources",
+    "href": "index.html#psd-resources",
+    "title": "Protected Species Division Open Science",
+    "section": "PSD Resources",
+    "text": "PSD Resources\n\nGit Started - New to GitHub, start here for help\nPSD staff publications - Compiled by NOAA libraries\nMore TBD…"
   },
   {
-    "objectID": "content/HMSRP.html#tools",
-    "href": "content/HMSRP.html#tools",
-    "title": "Hawaiian Monk Seal Program",
-    "section": "Tools",
-    "text": "Tools\n\nToxoplasmosis exposure risk mapping app (NOAA Rstudio server)\nSighting data sorting app (in development)\nMore TBD…"
-  },
-  {
-    "objectID": "content/HMSRP.html#resources",
-    "href": "content/HMSRP.html#resources",
-    "title": "Hawaiian Monk Seal Program",
-    "section": "Resources",
-    "text": "Resources\n\nHMSRP field manual\nMore TBD…"
-  },
-  {
-    "objectID": "content/HMSRP.html#quick-links",
-    "href": "content/HMSRP.html#quick-links",
-    "title": "Hawaiian Monk Seal Program",
-    "section": "Quick links",
-    "text": "Quick links\n\nSARs\nHawaiian monk seal NOAA page\nMore TBD…"
+    "objectID": "index.html#nmfs-resources",
+    "href": "index.html#nmfs-resources",
+    "title": "Protected Species Division Open Science",
+    "section": "NMFS Resources",
+    "text": "NMFS Resources\n\nNMFS Open Science - Includes an incredible resource book, a NMFS GitHub SOP, and GitHub repo templates\nNMFS Openscapes - Describes the multi-year collaboration between NMFS and Openscapes\nNOAA Fisheries Integrated Toolbox - A portal of operational tools for a variety of applications, including protected species assessment\nNOAA Fisheries Integrated Modeling System - A software system to support next-generation fisheries stock assessment\nNMFS R User Group - Connect with over 200 NMFS R users\nMore TBD…"
   }
 ]
