@@ -6,7 +6,7 @@ The Hawaiian Monk Seal Research Program (HMSRP) conducts science-based conservat
 
 ## Datasets
 
--   Telemetry (ATN)
+-   Animal Telemetry Network
 -   *More TBD...*
 
 ## Tools

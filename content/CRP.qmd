@@ -6,33 +6,37 @@ The Cetacean Research Program (CRP) conducts research needed for the assessment 
 
 ## Datasets
 
--   Telemetry (ATN)
--   Sightings (OBIS-SEAMAP)
+-   [Animal Telemetry Network](https://portal.atn.ioos.us/#metadata/5689c621-6d38-4738-b38d-4e160679367d/project) - *Movement Patterns and Habitat Use of Cetaceans within the Mariana Archipelago, 2013-2018*
+-   [OBIS-SEAMAP](https://seamap.env.duke.edu/dataset/2071) - *PIFSC Mariana Archipelago cetacean surveys 2010-2019*
+-   [OBIS-SEAMAP](https://seamap.env.duke.edu/dataset/2180) - *Marine Mammal Survey, HICEAS 2017, Cruise 1705/1706*
+-   [OBIS-SEAMAP](https://seamap.env.duke.edu/dataset/466) - *Visual and genetic surveys for odontocete cetaceans in American Samoa 2003-06*
+-   [Pacific Islands Passive Acoustic Network](https://data.noaa.gov/metaview/page?xml=NOAA/NESDIS/NGDC/MGG/passive_acoustic//iso/xml/PIFSC_HARP_10kHzDecimated.xml&view=getDataView) - *Passive acoustic recordings of cetaceans taken from areas within the Pacific Islands Region since 2005*
 -   *More TBD...*
 
 ## Tools
 
--   Humpback whale acoustic detector
--   Design-based line-transect abundance estimation package
--   LL HARP project organization
--   Banter models
--   Whistle tracking tools
+-   [Humpback whale acoustic detector](https://tfhub.dev/google/humpback_whale/1) - *Acoustic detection of humpback whales in the Pacific Islands using a convolutional neural network*
+-   LTabundR - *R package for design-based line-transect abundance estimation of cetaceans (in development)*
+-   FKW BANTER - *Automatic classification of false killer whale acoustic detections with no visual confirmation*
+-   Multi-target tracking - *Automated time differences of arrival tracking of acoustic data*
 -   Acoustic glider toolbox
 -   SQL reading tools
 -   *More TBD...*
 
 ## Resources
 
--   HICEAS materials
+-   Line-transect survey materials
 -   CRP UAS handbook
 -   Stock and management boundary files
 -   *More TBD...*
 
 ## Quick links
 
--   SARs
--   swfscDAS
--   CruzPlot
--   Bioacoustics stack exchange
--   [Propagation Modeling](https://github.com/nposdalj/PropagationModeling)
+-   [SARs](https://www.fisheries.noaa.gov/national/marine-mammal-protection/marine-mammal-stock-assessment-reports-species-stock) - *Marine mammal stock assessment reports by species/stock*
+-   [swfscDAS](https://smwoodman.github.io/swfscDAS/) - *R package for processing and analyzing shipboard DAS data from WinCruz*
+-   [CruzPlot](https://smwoodman.github.io/CruzPlot/) - *R package for creating maps and summarizing and plotting DAS data from WinCruz*
+-   [PAMpal](https://taikisan21.github.io/PAMpal/) - *R package for processing passive acoustic data collected using Pamguard*
+-   [Pamguard](https://www.pamguard.org/) - *Open source software for passing acoustic monitoring*
+-   [Bioacoustics Stack Exchange](https://bioacoustics.stackexchange.com/) - *Question and answer site for people interested in the studies of non-human animal sounds*
+-   [Propagation Modeling](https://github.com/nposdalj/PropagationModeling) - *Repository with tools for modeling sound propagation for the purpose of marine animal density estimation*
 -   *More TBD...*
