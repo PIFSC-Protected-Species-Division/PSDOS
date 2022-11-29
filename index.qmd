@@ -20,7 +20,7 @@ The PSDOS hub is a work in progress that we intend to grow and develop in the mo
 
 -   [NMFS Open Science](https://nmfs-opensci.github.io/) - *Includes an incredible resource book, a NMFS GitHub SOP, and GitHub repo templates*
 -   [NMFS Openscapes](https://nmfs-openscapes.github.io/) - *Describes the multi-year collaboration between NMFS and Openscapes*
--   [NOAA Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/) - *A portal of operational tools for a variety of applications, including protected species assessment*
--   [NOAA Fisheries Integrated Modeling System](https://noaa-fims.github.io/) - *A software system to support next-generation fisheries stock assessment*
+-   [NOAA Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/) - *Portal of operational tools for a variety of applications, including protected species assessment*
+-   [NOAA Fisheries Integrated Modeling System](https://noaa-fims.github.io/) - *Software system to support next-generation fisheries stock assessment*
 -   [NMFS R User Group](https://nmfs-opensci.github.io/NMFS-R-UG/) - *Connect with over 200 NMFS R users*
 -   *More TBD...*
