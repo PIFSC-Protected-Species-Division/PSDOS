@@ -12,7 +12,7 @@ The PSDOS hub is a work in progress that we intend to grow and develop in the mo
 
 ## PSD Resources
 
--   [Git Started](https://github.com/sfregosi/CRPTools) - *New to GitHub, start here for help*
+-   [Git Started](https://github.com/sfregosi/CRPTools/blob/main/docs/git_started.md) - *New to GitHub, start here for help*
 -   [PSD staff publications](https://apps-pifsc.fisheries.noaa.gov/library/staff_publications.php?division=psd&doc_type=all) - *Compiled by NOAA libraries*
 -   *More TBD...*
 
