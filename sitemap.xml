@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/PSSP.html</loc>
-    <lastmod>2022-12-05T23:41:53.968Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/HMSRP.html</loc>
-    <lastmod>2022-12-05T23:41:56.264Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/MTBAP.html</loc>
-    <lastmod>2022-12-05T23:41:56.728Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSDOS/index.html</loc>
+    <lastmod>2023-01-18T18:30:12.038Z</lastmod>
   </url>
   <url>
     <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/CRP.html</loc>
-    <lastmod>2022-12-05T23:41:57.256Z</lastmod>
+    <lastmod>2023-01-18T18:30:13.126Z</lastmod>
   </url>
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSDOS/index.html</loc>
-    <lastmod>2022-12-05T23:41:57.712Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/MTBAP.html</loc>
+    <lastmod>2023-01-18T18:30:13.482Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/HMSRP.html</loc>
+    <lastmod>2023-01-18T18:30:13.830Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PSDOS/content/PSSP.html</loc>
+    <lastmod>2023-01-18T18:30:14.174Z</lastmod>
   </url>
 </urlset>

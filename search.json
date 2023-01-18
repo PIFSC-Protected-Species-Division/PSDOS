@@ -1,36 +1,92 @@
 [
   {
-    "objectID": "content/PSSP.html",
-    "href": "content/PSSP.html",
-    "title": "Protected Species Services and Support Program",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Protected Species Division Open Science",
     "section": "",
-    "text": "The Protected Species Service and Support Program (PSSP)…"
+    "text": "The Protected Species Division (PSD) of the Pacific Islands Fisheries Science Center provides the scientific foundation for the conservation of cetaceans, Hawaiian monk seals, and sea turtles in the Pacific Islands, guided by mandates of the Marine Mammal Protection Act, Endangered Species Act, and international agreements.\nMembers of PSD have joined the growing NMFS Open Science community through participation in NMFS Openscapes training. As in other scientific fields, open science practices can advance protected species science by making it more accessible, transparent, and reproducible. This site will serve as a hub for PSD Open Science (PSDOS), where we will aggregate links to our datasets, analytical tools, and other resources for ourselves, our collaborators and stakeholders, and other researchers and analysts.\nThe PSDOS hub is a work in progress that we intend to grow and develop in the months and years to come. If you have suggestions for resources or other information to include, please let us know by creating an issue in the PSDOS repository."
   },
   {
-    "objectID": "content/PSSP.html#datasets",
-    "href": "content/PSSP.html#datasets",
-    "title": "Protected Species Services and Support Program",
+    "objectID": "index.html#psd-resources",
+    "href": "index.html#psd-resources",
+    "title": "Protected Species Division Open Science",
+    "section": "PSD Resources",
+    "text": "PSD Resources\n\nGit Started - New to GitHub, start here for help\nPSD staff publications - Compiled by NOAA libraries\nMore TBD…"
+  },
+  {
+    "objectID": "index.html#nmfs-resources",
+    "href": "index.html#nmfs-resources",
+    "title": "Protected Species Division Open Science",
+    "section": "NMFS Resources",
+    "text": "NMFS Resources\n\nNMFS Open Science - Includes an incredible resource book, a NMFS GitHub SOP, and GitHub repo templates\nNMFS Openscapes - Describes the multi-year collaboration between NMFS and Openscapes\nNOAA Fisheries Integrated Toolbox - Portal of operational tools for a variety of applications, including protected species assessment\nNOAA Fisheries Integrated Modeling System - Software system to support next-generation fisheries stock assessment\nNMFS R User Group - Connect with over 200 NMFS R users\nMore TBD…"
+  },
+  {
+    "objectID": "content/CRP.html",
+    "href": "content/CRP.html",
+    "title": "Cetacean Research Program",
+    "section": "",
+    "text": "The Cetacean Research Program (CRP) conducts research needed for the assessment of whale and dolphin populations in the central and western Pacific Ocean, which requires an understanding of distribution, stock structure, habitat use, and natural and anthropogenic threats, along with estimates of abundance, demography, and mortality."
+  },
+  {
+    "objectID": "content/CRP.html#datasets",
+    "href": "content/CRP.html#datasets",
+    "title": "Cetacean Research Program",
+    "section": "Datasets",
+    "text": "Datasets\n\nAnimal Telemetry Network - Movement Patterns and Habitat Use of Cetaceans within the Mariana Archipelago, 2013-2018\nOBIS-SEAMAP - PIFSC Mariana Archipelago cetacean surveys 2010-2019\nOBIS-SEAMAP - Marine Mammal Survey, HICEAS 2017, Cruise 1705/1706\nOBIS-SEAMAP - Visual and genetic surveys for odontocete cetaceans in American Samoa 2003-06\nPacific Islands Passive Acoustic Network - Passive acoustic recordings of cetaceans taken from areas within the Pacific Islands Region since 2005\nMore TBD…"
+  },
+  {
+    "objectID": "content/CRP.html#tools",
+    "href": "content/CRP.html#tools",
+    "title": "Cetacean Research Program",
+    "section": "Tools",
+    "text": "Tools\n\nHumpback whale acoustic detector - Acoustic detection of humpback whales in the Pacific Islands using a convolutional neural network\nLTabundR - R package for design-based line-transect abundance estimation of cetaceans (in development)\nFKW BANTER - Automatic classification of false killer whale acoustic detections with no visual confirmation\nMulti-target tracking - Automated time differences of arrival tracking of acoustic data\nAcoustic glider toolbox\nSQL reading tools\nMore TBD…"
+  },
+  {
+    "objectID": "content/CRP.html#resources",
+    "href": "content/CRP.html#resources",
+    "title": "Cetacean Research Program",
+    "section": "Resources",
+    "text": "Resources\n\nLine-transect survey materials\nCRP UAS handbook\nStock and management boundary files\nMore TBD…"
+  },
+  {
+    "objectID": "content/CRP.html#quick-links",
+    "href": "content/CRP.html#quick-links",
+    "title": "Cetacean Research Program",
+    "section": "Quick links",
+    "text": "Quick links\n\nSARs - Marine mammal stock assessment reports by species/stock\nswfscDAS - R package for processing and analyzing shipboard DAS data from WinCruz\nCruzPlot - R package for creating maps and summarizing and plotting DAS data from WinCruz\nPAMpal - R package for processing passive acoustic data collected using Pamguard\nPamguard - Open source software for passing acoustic monitoring\nBioacoustics Stack Exchange - Question and answer site for people interested in the studies of non-human animal sounds\nPropagation Modeling - Repository with tools for modeling sound propagation for the purpose of marine animal density estimation\nMore TBD…"
+  },
+  {
+    "objectID": "content/MTBAP.html",
+    "href": "content/MTBAP.html",
+    "title": "Marine Turtle Biology and Assessment Program",
+    "section": "",
+    "text": "The Marine Turtle Biology and Assessment Program (MTBAP) conducts research throughout the central and western Pacific Ocean to support the conservation and management of threatened and endangered marine turtle populations. The program works to understand the distribution, abundance, trends, movements, habitat use, and population dynamics of numerous populations of turtles from five species, as well as the impacts of anthropogenic activities such as fisheries bycatch on each population."
+  },
+  {
+    "objectID": "content/MTBAP.html#datasets",
+    "href": "content/MTBAP.html#datasets",
+    "title": "Marine Turtle Biology and Assessment Program",
     "section": "Datasets",
     "text": "Datasets\n\nMore TBD…"
   },
   {
-    "objectID": "content/PSSP.html#tools",
-    "href": "content/PSSP.html#tools",
-    "title": "Protected Species Services and Support Program",
+    "objectID": "content/MTBAP.html#tools",
+    "href": "content/MTBAP.html#tools",
+    "title": "Marine Turtle Biology and Assessment Program",
     "section": "Tools",
     "text": "Tools\n\nMore TBD…"
   },
   {
-    "objectID": "content/PSSP.html#resources",
-    "href": "content/PSSP.html#resources",
-    "title": "Protected Species Services and Support Program",
+    "objectID": "content/MTBAP.html#resources",
+    "href": "content/MTBAP.html#resources",
+    "title": "Marine Turtle Biology and Assessment Program",
     "section": "Resources",
     "text": "Resources\n\nMore TBD…"
   },
   {
-    "objectID": "content/PSSP.html#quick-links",
-    "href": "content/PSSP.html#quick-links",
-    "title": "Protected Species Services and Support Program",
+    "objectID": "content/MTBAP.html#quick-links",
+    "href": "content/MTBAP.html#quick-links",
+    "title": "Marine Turtle Biology and Assessment Program",
     "section": "Quick links",
     "text": "Quick links\n\nMore TBD…"
   },
@@ -70,94 +126,38 @@
     "text": "Quick links\n\nSARs\nHawaiian monk seal NOAA page\nMore TBD…"
   },
   {
-    "objectID": "content/MTBAP.html",
-    "href": "content/MTBAP.html",
-    "title": "Marine Turtle Biology and Assessment Program",
+    "objectID": "content/PSSP.html",
+    "href": "content/PSSP.html",
+    "title": "Protected Species Services and Support Program",
     "section": "",
-    "text": "The Marine Turtle Biology and Assessment Program (MTBAP) conducts research throughout the central and western Pacific Ocean to support the conservation and management of threatened and endangered marine turtle populations. The program works to understand the distribution, abundance, trends, movements, habitat use, and population dynamics of numerous populations of turtles from five species, as well as the impacts of anthropogenic activities such as fisheries bycatch on each population."
+    "text": "The Protected Species Service and Support Program (PSSP)…"
   },
   {
-    "objectID": "content/MTBAP.html#datasets",
-    "href": "content/MTBAP.html#datasets",
-    "title": "Marine Turtle Biology and Assessment Program",
+    "objectID": "content/PSSP.html#datasets",
+    "href": "content/PSSP.html#datasets",
+    "title": "Protected Species Services and Support Program",
     "section": "Datasets",
     "text": "Datasets\n\nMore TBD…"
   },
   {
-    "objectID": "content/MTBAP.html#tools",
-    "href": "content/MTBAP.html#tools",
-    "title": "Marine Turtle Biology and Assessment Program",
+    "objectID": "content/PSSP.html#tools",
+    "href": "content/PSSP.html#tools",
+    "title": "Protected Species Services and Support Program",
     "section": "Tools",
     "text": "Tools\n\nMore TBD…"
   },
   {
-    "objectID": "content/MTBAP.html#resources",
-    "href": "content/MTBAP.html#resources",
-    "title": "Marine Turtle Biology and Assessment Program",
+    "objectID": "content/PSSP.html#resources",
+    "href": "content/PSSP.html#resources",
+    "title": "Protected Species Services and Support Program",
     "section": "Resources",
     "text": "Resources\n\nMore TBD…"
   },
   {
-    "objectID": "content/MTBAP.html#quick-links",
-    "href": "content/MTBAP.html#quick-links",
-    "title": "Marine Turtle Biology and Assessment Program",
+    "objectID": "content/PSSP.html#quick-links",
+    "href": "content/PSSP.html#quick-links",
+    "title": "Protected Species Services and Support Program",
     "section": "Quick links",
     "text": "Quick links\n\nMore TBD…"
-  },
-  {
-    "objectID": "content/CRP.html",
-    "href": "content/CRP.html",
-    "title": "Cetacean Research Program",
-    "section": "",
-    "text": "The Cetacean Research Program (CRP) conducts research needed for the assessment of whale and dolphin populations in the central and western Pacific Ocean, which requires an understanding of distribution, stock structure, habitat use, and natural and anthropogenic threats, along with estimates of abundance, demography, and mortality."
-  },
-  {
-    "objectID": "content/CRP.html#datasets",
-    "href": "content/CRP.html#datasets",
-    "title": "Cetacean Research Program",
-    "section": "Datasets",
-    "text": "Datasets\n\nAnimal Telemetry Network - Movement Patterns and Habitat Use of Cetaceans within the Mariana Archipelago, 2013-2018\nOBIS-SEAMAP - PIFSC Mariana Archipelago cetacean surveys 2010-2019\nOBIS-SEAMAP - Marine Mammal Survey, HICEAS 2017, Cruise 1705/1706\nOBIS-SEAMAP - Visual and genetic surveys for odontocete cetaceans in American Samoa 2003-06\nPacific Islands Passive Acoustic Network - Passive acoustic recordings of cetaceans taken from areas within the Pacific Islands Region since 2005\nMore TBD…"
-  },
-  {
-    "objectID": "content/CRP.html#tools",
-    "href": "content/CRP.html#tools",
-    "title": "Cetacean Research Program",
-    "section": "Tools",
-    "text": "Tools\n\nHumpback whale acoustic detector - Acoustic detection of humpback whales in the Pacific Islands using a convolutional neural network\nLTabundR - R package for design-based line-transect abundance estimation of cetaceans (in development)\nFKW BANTER - Automatic classification of false killer whale acoustic detections with no visual confirmation\nMulti-target tracking - Automated time differences of arrival tracking of acoustic data\nAcoustic glider toolbox\nSQL reading tools\nMore TBD…"
-  },
-  {
-    "objectID": "content/CRP.html#resources",
-    "href": "content/CRP.html#resources",
-    "title": "Cetacean Research Program",
-    "section": "Resources",
-    "text": "Resources\n\nLine-transect survey materials\nCRP UAS handbook\nStock and management boundary files\nMore TBD…"
-  },
-  {
-    "objectID": "content/CRP.html#quick-links",
-    "href": "content/CRP.html#quick-links",
-    "title": "Cetacean Research Program",
-    "section": "Quick links",
-    "text": "Quick links\n\nSARs - Marine mammal stock assessment reports by species/stock\nswfscDAS - R package for processing and analyzing shipboard DAS data from WinCruz\nCruzPlot - R package for creating maps and summarizing and plotting DAS data from WinCruz\nPAMpal - R package for processing passive acoustic data collected using Pamguard\nPamguard - Open source software for passing acoustic monitoring\nBioacoustics Stack Exchange - Question and answer site for people interested in the studies of non-human animal sounds\nPropagation Modeling - Repository with tools for modeling sound propagation for the purpose of marine animal density estimation\nMore TBD…"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Protected Species Division Open Science",
-    "section": "",
-    "text": "The Protected Species Division (PSD) of the Pacific Islands Fisheries Science Center provides the scientific foundation for the conservation of cetaceans, Hawaiian monk seals, and sea turtles in the Pacific Islands, guided by mandates of the Marine Mammal Protection Act, Endangered Species Act, and international agreements.\nMembers of PSD have joined the growing NMFS Open Science community through participation in NMFS Openscapes training. As in other scientific fields, open science practices can advance protected species science by making it more accessible, transparent, and reproducible. This site will serve as a hub for PSD Open Science (PSDOS), where we will aggregate links to our datasets, analytical tools, and other resources for ourselves, our collaborators and stakeholders, and other researchers and analysts.\nThe PSDOS hub is a work in progress that we intend to grow and develop in the months and years to come. If you have suggestions for resources or other information to include, please let us know by creating an issue in the PSDOS repository."
-  },
-  {
-    "objectID": "index.html#psd-resources",
-    "href": "index.html#psd-resources",
-    "title": "Protected Species Division Open Science",
-    "section": "PSD Resources",
-    "text": "PSD Resources\n\nGit Started - New to GitHub, start here for help\nPSD staff publications - Compiled by NOAA libraries\nMore TBD…"
-  },
-  {
-    "objectID": "index.html#nmfs-resources",
-    "href": "index.html#nmfs-resources",
-    "title": "Protected Species Division Open Science",
-    "section": "NMFS Resources",
-    "text": "NMFS Resources\n\nNMFS Open Science - Includes an incredible resource book, a NMFS GitHub SOP, and GitHub repo templates\nNMFS Openscapes - Describes the multi-year collaboration between NMFS and Openscapes\nNOAA Fisheries Integrated Toolbox - Portal of operational tools for a variety of applications, including protected species assessment\nNOAA Fisheries Integrated Modeling System - Software system to support next-generation fisheries stock assessment\nNMFS R User Group - Connect with over 200 NMFS R users\nMore TBD…"
   }
 ]
