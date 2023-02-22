@@ -1,0 +1,63 @@
+---
+title: "Git Started Doc"
+output:
+  github_document: default
+  pdf_document: default
+  word_document: default
+  html_document: default
+urlcolor: blue
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+_Last updated: `r Sys.Date()`_
+
+Thanks to the [NMFS Open Science](https://nmfs-opensci.github.io/) group and the Math Bio Program at NWFSC, a lot of really amazing resources[^1] already exist. So, rather than recreate those here, this will point you to the most helpful places to start!
+
+[^1]: Their main landing page with a whole ton of resources for all the different workshops can be found [here](https://rverse-tutorials.github.io/). The most recent workshop landing page can be found [here](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2022/).
+
+### Table of Contents
+[Background and Setup](#background-and-setup)  
+[Navigating GitHub Desktop](#navigating-github-desktop)  
+[Helpful Videos](#helpful-videos)  
+
+## Background and Setup
+**Step 0.** These two things will make it easier to actually try stuff out as you work through the tutorial below.   
+
+* Make a [GitHub](https://github.com/) account. Click the "Sign Up" button in the top right. See the ["Account Settings"](https://nmfs-opensci.github.io/GitHub-SOP/#github-personal-account-settings) section of the NOAA draft SOP on use of GitHub for suggestions on your username and use of your NOAA email address.   Add your name to the [PSD GitHub Usernames Google Sheet](https://docs.google.com/spreadsheets/d/1vjLlPSRGiW5RJ-8JP59JKMxB7p5azspIs-66yM3bMEo/edit#gid=0). If you need access to any private repositories, you will need to give this username to the owner of that repository and they can add you as a collaborator. 
+* Download and install [GitHub Desktop](https://desktop.github.com/). _It can be downloaded and installed on NOAA machines without IT._ You will set it up in **Step 1**, but if you have questions about setting up GitHub Desktop, ping Selene.  
+
+If you have additional questions about Git/GitHub use within NOAA, this [draft SOP](https://nmfs-opensci.github.io/GitHub-SOP/) is a valuable resource. Basically, GitHub IS allowed, just don't put any sensitive info up there! Note, this SOP is still under development.  
+
+**Step 1.** Read through or watch this **Introduction to Git and GitHub** lesson:
+[lecture](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2022/week1-introtogit.html) | [video](https://www.youtube.com/watch?v=M1sOC4046PQ&feature=youtu.be)
+
+**Step 2.** Practice cloning a repository - _CRPFunsies_ - using GitHub Desktop.  
+This is a repository that is just for practicing/learning GitHub...no science can get messed up in here! Cloning a repository on the web browser is [Skill 1b](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2022/week1-introtogit.html#Skill_1b:_Copy_a_repo_on_GitHub) in the lecture linked above, but this is another way of cloning a repository that makes a copy on your local machine right away. 
+
+* In GitHub Desktop go to 'File' > 'Clone Repository'
+* click the 'URL' tab 
+* Paste in `'https://github.com/sfregosi/CRPFunsies'` as the URL
+* Specify where you want it saved on your local machine. The default will be something like `'C:\Users\User.Name\Documents\GitHub\CRPFunsies'` and that is a good place to put it! But if you want it somewhere else, just specify. You want the folder to be the same name as the repository (e.g., 'CRPFunsies')
+* Hit 'Clone' and it will copy all the files from GitHub to your local folder. 
+
+**Step 3.** If you see yourself using Git more within your own workflow, then check out the second [lecture](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2022/week2-github.html) to learn some slightly more advanced/additional skills. 
+
+## Navigating GitHub Desktop 
+![GitHub Desktop Screenshot](images/github_desktop_screenshot.png)
+
+* _**Current repository**_ is listed in the top left. View ALL existing repositories (that have been added to GitHub Desktop using Step 2 above) with the drop down arrow. The lock symbol in this example means its private. 
+* _**Current branch**_ is shown in the middle. You can view all branches with the drop down, but typically, we won't be using multiple branches. 
+* The top right box (says _**Fetch origin**_) tells you the status of the cloud version of this repository. In this case, the origin (the cloud version on Github.com) was fetched, meaning my local computer was updated, 2 minutes ago. If you have commits that are ready to be "pushed" to the cloud, this will say "push" and have a small up arrow. If there are changes to the origin/on the web that are not on your local machine, this will say "pull" and will have a number of commits/changes to be pulled. You can click "Push" or "Pull" to interface with the web-based repository. 
+* The left hand panel shows all files that have changes. A green "+" means its a new file. A yellow dot means a changed file, and a red minus sign is a deleted file. You can click on any of those files any changes would be shown in the right panel. 
+* To "commit" those changes, add a small description of what you did in the bottom left. If you need to do a longer message, use the "Description" box. Then hit the blue "Commit to main" button. This will "stage" that commit - it won't be yet on the web, but it's ready to go. The top right will change from "Fetch Origin" to push. - You can make lots of commits and just push once. Or you can push after every commit. But it is easier to undo commits than undo pushes, so commit often, push and pull daily! 
+
+## Helpful Videos
+
+The following short videos by Eli Holmes screenshare and walk through some GitHub/GitHub Desktop basics. 
+
+Video 1. Setting GitHub Desktop Preferences  (2.5 mins) https://youtu.be/0PVOPL6i3MQ  
+Video 2. Cloning a repository (2 mins) https://youtu.be/acIwQO1eOtw  
+Video 3. Pulling and pushing changes to GitHub  (3.5 mins)  https://youtu.be/cQgn3_w27_8  
+Video 4. Making an existing directory into a Git repo and pushing to GitHub with GitHub Desktop. A two-click process. https://youtu.be/9BTpiTQPyu8
