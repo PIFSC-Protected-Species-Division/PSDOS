@@ -3,8 +3,6 @@ title: "Git Started Doc"
 output:
   github_document: default
   pdf_document: default
-  word_document: default
-  html_document: default
 urlcolor: blue
 ---
 
@@ -45,7 +43,7 @@ This is a repository that is just for practicing/learning GitHub...no science ca
 **Step 3.** If you see yourself using Git more within your own workflow, then check out the second [lecture](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2022/week2-github.html) to learn some slightly more advanced/additional skills. 
 
 ## Navigating GitHub Desktop 
-![GitHub Desktop Screenshot](images/github_desktop_screenshot.png)
+![GitHub Desktop Screenshot](../images/github_desktop_screenshot.png)
 
 * _**Current repository**_ is listed in the top left. View ALL existing repositories (that have been added to GitHub Desktop using Step 2 above) with the drop down arrow. The lock symbol in this example means its private. 
 * _**Current branch**_ is shown in the middle. You can view all branches with the drop down, but typically, we won't be using multiple branches. 

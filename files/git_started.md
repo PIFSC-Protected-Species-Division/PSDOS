@@ -1,7 +1,7 @@
 Git Started Doc
 ================
 
-*Last updated: 2022-11-23*
+*Last updated: 2023-02-23*
 
 Thanks to the [NMFS Open Science](https://nmfs-opensci.github.io/) group
 and the Math Bio Program at NWFSC, a lot of really amazing resources[^1]
@@ -72,7 +72,7 @@ to learn some slightly more advanced/additional skills.
 
 ## Navigating GitHub Desktop
 
-![GitHub Desktop Screenshot](images/github_desktop_screenshot.png)
+![GitHub Desktop Screenshot](../images/github_desktop_screenshot.png)
 
 -   ***Current repository*** is listed in the top left. View ALL
     existing repositories (that have been added to GitHub Desktop using
